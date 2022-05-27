@@ -27,6 +27,11 @@ h3 {
     margin-bottom: -1%;
 }
 
+footer {
+    background-color: rgb(212, 113, 0);
+    height: 150px;
+    width: 100%;
+}
 .navigbt {
     background-color: rgb(255, 187, 0);
     color: white;
